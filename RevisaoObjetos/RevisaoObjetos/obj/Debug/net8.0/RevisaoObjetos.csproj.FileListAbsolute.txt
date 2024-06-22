@@ -1,0 +1,29 @@
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.AssemblyInfoInputs.cache
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.AssemblyInfo.cs
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.exe
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.deps.json
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.runtimeconfig.json
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.dll
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.pdb
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.dll
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\refint\RevisaoObjetos.dll
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.pdb
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.genruntimeconfig.cache
+C:\Users\oaugu\source\repos\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\ref\RevisaoObjetos.dll
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.exe
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.deps.json
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.runtimeconfig.json
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.dll
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\bin\Debug\net8.0\RevisaoObjetos.pdb
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.AssemblyInfoInputs.cache
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.AssemblyInfo.cs
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.sourcelink.json
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.dll
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\refint\RevisaoObjetos.dll
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.pdb
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\RevisaoObjetos.genruntimeconfig.cache
+C:\Users\oaugu\OneDrive\Área de Trabalho\AbrirProjeto\RevisaoObjetos\RevisaoObjetos\obj\Debug\net8.0\ref\RevisaoObjetos.dll
